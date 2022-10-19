@@ -187,6 +187,7 @@ class ListViewDemothree extends StatelessWidget {
                       children: [
                         FlutterLogo(
                           size: 125,
+                          style: FlutterLogoStyle.stacked,
                         ),
                         SizedBox(
                           height: 10,
